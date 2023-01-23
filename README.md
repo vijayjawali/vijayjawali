@@ -30,7 +30,7 @@ Vijay</a></h1>
 
 ![Windows](https://a11ybadges.com/badge?logo=windows) ![Linux](https://a11ybadges.com/badge?logo=linux)
 
-![Microsoft Excel](https://a11ybadges.com/badge?logo=microsoftexcel) ![Microsoft Office](https://a11ybadges.com/badge?logo=microsoftoffice) ![Microsoft OneNote](https://a11ybadges.com/badge?logo=microsoftonenote) ![Microsoft Outlook](https://a11ybadges.com/badge?logo=microsoftoutlook) ![Microsoft PowerPoint](https://a11ybadges.com/badge?logo=microsoftpowerpoint) ![Microsoft SharePoint](https://a11ybadges.com/badge?logo=microsoftsharepoint) ![Microsoft Teams](https://a11ybadges.com/badge?logo=microsoftteams) ![Microsoft Word](https://a11ybadges.com/badge?logo=microsoftword) ![Notepad++](https://a11ybadges.com/badge?logo=notepadplusplus)
+![Microsoft Excel](https://a11ybadges.com/badge?logo=microsoftexcel) ![Microsoft Office](https://a11ybadges.com/badge?logo=microsoftoffice) ![Microsoft OneNote](https://a11ybadges.com/badge?logo=microsoftonenote) ![Microsoft PowerPoint](https://a11ybadges.com/badge?logo=microsoftpowerpoint) ![Microsoft SharePoint](https://a11ybadges.com/badge?logo=microsoftsharepoint) ![Microsoft Teams](https://a11ybadges.com/badge?logo=microsoftteams) ![Microsoft Word](https://a11ybadges.com/badge?logo=microsoftword) ![Notepad++](https://a11ybadges.com/badge?logo=notepadplusplus)
 ***
 
 ### 🤝🏻 &nbsp;Connect with Me
