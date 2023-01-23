@@ -8,7 +8,7 @@ Vijay</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<br>
+***
 
 ### 🛠 | &nbsp;Tech Stack
 
@@ -27,7 +27,7 @@ Vijay</a></h1>
 ![Power BI](https://a11ybadges.com/badge?logo=powerbi) ![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
 ![Microsoft Excel](https://a11ybadges.com/badge?logo=microsoftexcel) ![Microsoft Office](https://a11ybadges.com/badge?logo=microsoftoffice) ![Microsoft OneNote](https://a11ybadges.com/badge?logo=microsoftonenote) ![Microsoft Outlook](https://a11ybadges.com/badge?logo=microsoftoutlook) ![Microsoft PowerPoint](https://a11ybadges.com/badge?logo=microsoftpowerpoint) ![Microsoft SharePoint](https://a11ybadges.com/badge?logo=microsoftsharepoint) ![Microsoft Teams](https://a11ybadges.com/badge?logo=microsoftteams) ![Microsoft Word](https://a11ybadges.com/badge?logo=microsoftword) ![Notepad++](https://a11ybadges.com/badge?logo=notepadplusplus)
-<br>
+***
 
 ### 🤝🏻 &nbsp;Connect with Me
 
