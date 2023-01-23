@@ -1,10 +1,12 @@
+<img align ="right" src="https://komarev.com/ghpvc/?username=vijayjawali&label=Profile%20views&color=0e75b6&style=flat" alt="vijayjawali">
+
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vijayjawali/" target="blank">
 Vijay</a></h1>
 <h3 align="center">A passionate Big Data Engineer studying Data Science at <a href="https://www.birmingham.ac.uk/index.aspx" target="blank"> University of Birmingham</a></h3>
 
 <h4 align="center">I enjoy utilizing data to uncover insights and solve complex problems, and am constantly seeking to improve my skills and stay up-to-date with the latest advancements in the field.</h4>
 
-<p><img align="right" src="https://github.com/vijayjawali/vijayjawali/blob/main/ReadME.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/vijayjawali/vijayjawali/blob/main/ReadME.gif" alt="vijay jawali" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,7 +14,7 @@ Vijay</a></h1>
 
 ### 🛠 | &nbsp;Tech Stack
 
-![Scala](https://a11ybadges.com/badge?logo=scala) ![Python](https://a11ybadges.com/badge?logo=python) ![R](https://a11ybadges.com/badge?logo=r) 	![Linux](https://a11ybadges.com/badge?logo=linux)
+![Scala](https://a11ybadges.com/badge?logo=scala) ![Python](https://a11ybadges.com/badge?logo=python) ![R](https://a11ybadges.com/badge?logo=r) ![Java](https://a11ybadges.com/badge?logo=java)	
 
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark) 	![Apache Kafka](https://a11ybadges.com/badge?logo=apachekafka)
 
@@ -25,6 +27,8 @@ Vijay</a></h1>
  ![GitHub](https://a11ybadges.com/badge?logo=github) ![Git](https://a11ybadges.com/badge?logo=git) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter) ![PyCharm](https://a11ybadges.com/badge?logo=pycharm) ![IntelliJ IDEA](https://a11ybadges.com/badge?logo=intellijidea) ![RStudio](https://a11ybadges.com/badge?logo=rstudio) ![Eclipse IDE](https://a11ybadges.com/badge?logo=eclipseide) ![Jenkins](https://a11ybadges.com/badge?logo=jenkins) ![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven) ![Presto](https://a11ybadges.com/badge?logo=presto) ![Jira](https://a11ybadges.com/badge?logo=jira) ![Confluence](https://a11ybadges.com/badge?logo=confluence) ![Databricks](https://a11ybadges.com/badge?logo=databricks)
 
 ![Power BI](https://a11ybadges.com/badge?logo=powerbi) ![Tableau](https://a11ybadges.com/badge?logo=tableau)
+
+![Windows](https://a11ybadges.com/badge?logo=windows) ![Linux](https://a11ybadges.com/badge?logo=linux)
 
 ![Microsoft Excel](https://a11ybadges.com/badge?logo=microsoftexcel) ![Microsoft Office](https://a11ybadges.com/badge?logo=microsoftoffice) ![Microsoft OneNote](https://a11ybadges.com/badge?logo=microsoftonenote) ![Microsoft Outlook](https://a11ybadges.com/badge?logo=microsoftoutlook) ![Microsoft PowerPoint](https://a11ybadges.com/badge?logo=microsoftpowerpoint) ![Microsoft SharePoint](https://a11ybadges.com/badge?logo=microsoftsharepoint) ![Microsoft Teams](https://a11ybadges.com/badge?logo=microsoftteams) ![Microsoft Word](https://a11ybadges.com/badge?logo=microsoftword) ![Notepad++](https://a11ybadges.com/badge?logo=notepadplusplus)
 ***
