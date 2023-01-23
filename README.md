@@ -6,5 +6,12 @@ Vijay</a></h1>
 
 <p><img align="right" src="https://github.com/vijayjawali/vijayjawali/blob/main/ReadME.gif" alt="adam-pw" /></p>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+<br>
 
 ### 🛠 | &nbsp;Tech Stack
+
+<br>
+
+### 🤝🏻 &nbsp;Connect with Me
