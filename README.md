@@ -3,3 +3,8 @@ Vijay</a></h1>
 <h3 align="center">A passionate Big Data Engineer studying Data Science at <a href="https://www.birmingham.ac.uk/index.aspx" target="blank"> University of Birmingham</a></h3>
 
 <h4 align="center">I enjoy utilizing data to uncover insights and solve complex problems, and am constantly seeking to improve my skills and stay up-to-date with the latest advancements in the field.</h4>
+
+
+### 🛠 | &nbsp;Tech Stack
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
