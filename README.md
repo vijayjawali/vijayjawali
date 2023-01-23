@@ -4,5 +4,7 @@ Vijay</a></h1>
 
 <h4 align="center">I enjoy utilizing data to uncover insights and solve complex problems, and am constantly seeking to improve my skills and stay up-to-date with the latest advancements in the field.</h4>
 
+<p><img align="right" src="https://github.com/vijayjawali/vijayjawali/blob/main/ReadME.gif" alt="adam-pw" /></p>
+
 
 ### 🛠 | &nbsp;Tech Stack
