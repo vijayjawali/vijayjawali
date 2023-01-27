@@ -10,6 +10,8 @@ Vijay</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+I am a specialist software engineer with 4 years of experience in big data technologies and cloud services. I have a strong background in creating Spark applications with Scala and Datasets in the Banking and Hospitality sectors using cloud infrastructure. My expertise includes working with Hive, Postgre, Cassandra databases. I also have experience in leveraging Oozie as a scheduling tool to automate report generation. I am skilled in developing applications to migrate existing use cases from legacy Java applications spark while migrating it to Big Data environment. I am also proficient in using PowerBI visualisation tool to get insights from a pool of data lake. I have experience in deploying applications using Jenkins pipeline on Amazon EMR cluster with oozie orchestration flows to run spark applications on AWS cloud services.
+
 ***
 
 ### 🛠 | &nbsp;Tech Stack
