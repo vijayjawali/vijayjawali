@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://vijayjawali.github.io/" target="blank">
 Vijay</a></h1>
-<h3 align="center">A passionate Data Engineer recently graduated with a Masters degree in Data Science from <a href="https://www.birmingham.ac.uk/index.aspx" target="blank"> University of Birmingham</a></h3>
+<h3 align="center">A passionate Data Scientist/Data Engineer recently graduated with a Masters degree in Data Science from <a href="https://www.birmingham.ac.uk/index.aspx" target="blank"> University of Birmingham</a></h3>
 
 <h4 align="center">I enjoy utilizing data to uncover insights and solve complex problems, and am constantly seeking to improve my skills and stay up-to-date with the latest advancements in the field.</h4>
 
@@ -10,7 +10,9 @@ Vijay</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a specialist software engineer with 4 years of experience in big data technologies and cloud services. I have a strong background in creating Spark applications with Scala and Datasets in the Banking and Hospitality sectors using cloud infrastructure. My expertise includes working with Hive, Postgre, Cassandra databases. I also have experience in leveraging Oozie as a scheduling tool to automate report generation. I am skilled in developing applications to migrate existing use cases from legacy Java applications spark while migrating it to Big Data environment. I am also proficient in using PowerBI visualisation tool to get insights from a pool of data lake. I have experience in deploying applications using Jenkins pipeline on Amazon EMR cluster with oozie orchestration flows to run spark applications on AWS cloud services.
+I am a Specialist Data engineer with 4 years of experience in big data technologies and cloud services. I have a strong background in creating Spark applications with Scala and Datasets in the Banking and Hospitality sectors using cloud infrastructure. My expertise includes working with Hive, Postgre and other SQL and NoSQL databases. I also have experience in leveraging Oozie and Airflow as a scheduling tool to automate data pipelines report generation. I am skilled in developing applications to migrate existing use cases from legacy Java applications spark while migrating it to Big Data environment. I am also proficient in using PowerBI visualisation tool to get insights from a pool of data lake. I have experience in deploying applications using Jenkins as CI/CD pipeline on Amazon EMR cluster with oozie orchestration flows to run spark applications on AWS cloud services.
+
+During my master's program at the University of Birmingham, I developed strong data science and machine learning skills through coursework and projects applying statistical analysis, modelling, deep learning, and cloud deployment. For the Data Science Group Project, my team conducted an end-to-end inflation forecasting study leveraging time series modelling and multivariate LSTM with attention to predict the impact of fuel prices on inflation. I created an interactive dashboard deployed on Google Cloud to showcase the ML pipeline. Through an individual summer project on multi-document text summarization of news articles using techniques like TF-IDF, TextRank, and fine-tuned Transformer models, I gained hands-on experience developing and evaluating NLP solutions. Additionally, a database project allowed me to develop expertise in data warehousing, ETL, and analytics engineering. Course modules covering algorithms, data management, and visualization provided a solid foundation. Collaborating in teams, delivering presentations, and authoring detailed technical reports honed my communication abilities. The comprehensive curriculum, hands-on learning, and emphasis on real-world applied data science equipped me with technical expertise and experience that can enable an impactful data science career.
 
 ***
 
