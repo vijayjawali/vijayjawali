@@ -1,6 +1,6 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=vijayjawali&label=Profile%20views&color=0e75b6&style=flat" alt="vijayjawali">
 
-<h1 align="center">Hi 👋, I'm <a href="https://vijayjawali.github.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://vijayjawali.com" target="blank">
 Vijay</a></h1>
 <h3 align="center">A passionate Data Scientist / Data Engineer recently graduated with a Masters degree in Data Science from <a href="https://www.birmingham.ac.uk/index.aspx" target="blank"> University of Birmingham</a></h3>
 
