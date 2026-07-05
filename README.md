@@ -18,15 +18,14 @@ I also regularly participate in hackathons focused on AI use cases, which keeps 
 
 I graduated with Distinction from my Master's program at the University of Birmingham, where I focused on multi-document text summarization — implementing extractive and abstractive approaches with T5, BART, and LLAMA 2. Other projects include an infrastructure monitoring system that uses GPT-3.5 Turbo for log anomaly detection, and an inflation forecasting model combining time-series analysis with deep learning.
 
-I like working at the intersection of solid engineering and applied ML, and I keep building certifications and side projects to stay current across financial services, retail, and tech
-
+I like working at the intersection of solid engineering and applied ML, and I keep building certifications and side projects to stay current across financial services and tech
 
 ***
 
 ### 🎓 &nbsp;Education
  
 **M.S. in Data Science** — University of Birmingham *(Graduated with Distinction)*
-Thesis: Multi-document text summarization using extractive and abstractive approaches (T5, BART, LLAMA 2)
+Thesis: Multi-document text summarization using extractive and abstractive approaches
  
 **B.E. in Electrical and Electronics Engineering** — Sir M. Visvesvaraya Institute of Technology *(2014 – 2018)*
 First Class with Distinction |&nbsp; 🏅 Gold Medalist for Academic Excellence
