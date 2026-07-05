@@ -10,14 +10,26 @@ Vijay</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a Software Engineer at Walmart with over 6 years of experience in big data technologies, cloud services, and data engineering. My expertise spans across developing and optimizing Apache Spark applications, orchestrating data pipelines, and implementing cloud-native solutions. I have a strong track record of leading enterprise-wide migrations and architecting data solutions that significantly improve performance and reduce costs.
+I'm a Software Engineer at Walmart with 6+ years of experience across big data, cloud infrastructure, and data engineering. I build and optimize Apache Spark applications, orchestrate large-scale data pipelines, and design cloud-native solutions — with a track record of leading enterprise migrations that cut cost and improved performance.
 
-During my professional journey across companies like Walmart, Altimetrik, Société Générale, and Mindtree, I've handled challenges from automating financial reconciliation systems processing $1.5B+ daily transactions to implementing fraud detection solutions for SWIFT payment systems. I specialize in developing and optimizing data-intensive applications using Apache Spark, with proven expertise in both Scala and Python. In addition, I have extensive experience in database technologies including PostgreSQL, Hive, HBase, and modern NoSQL solutions like Cassandra, CouchDB and MongoDB. My expertise in cloud platforms extends to AWS services (S3, EMR, EC2), GCP and Walmart Cloud Native Platform (WCNP), where I've implemented cost-effective data archival and processing solutions.
+Across roles at Walmart, Altimetrik, Société Générale, and Mindtree, I've automated financial reconciliation systems processing $1.5B+ in daily transactions and built fraud detection for SWIFT payment systems. Most recently, at Walmart Corporate Tech, I've been leading development on the COGS (Cost of Goods Sold) module, which processes all of Walmart's financial COGS data through an event-driven architecture handling ~3 million records per day for near-real-time financial data processing. I work primarily in Scala and Python, and I'm comfortable across a wide range of data stores — PostgreSQL, Hive, HBase, Cassandra, CouchDB, and MongoDB — as well as cloud platforms including AWS (S3, EMR, EC2), GCP, Kubernetes, and Walmart's Cloud Native Platform (WCNP).
 
-During my master's program at the University of Birmingham, where I graduated with Distinction, I deepened my expertise in data science and machine learning. My master's thesis focused on multi-document text summarization, where I implemented both extractive and abstractive approaches using state-of-the-art models like T5, BART, and LLAMA 2. I've worked on significant projects including an advanced infrastructure monitoring system leveraging GPT-3.5 Turbo for log anomaly detection, and an inflation forecasting system using time series analysis and deep learning models. These projects showcased my ability to work with both traditional statistical methods and cutting-edge AI technologies.
+I also regularly participate in hackathons focused on AI use cases, which keeps me experimenting with emerging tools outside my day-to-day work.
 
-I am passionate about solving complex data challenges and continuously expanding my technical horizons through certifications in machine learning, data science, and big data technologies. My diverse experience across financial services, retail, and technology sectors, combined with strong academic credentials and hands-on project experience, enables me to bring a comprehensive approach to data engineering and  data science challenges.
+I graduated with Distinction from my Master's program at the University of Birmingham, where I focused on multi-document text summarization — implementing extractive and abstractive approaches with T5, BART, and LLAMA 2. Other projects include an infrastructure monitoring system that uses GPT-3.5 Turbo for log anomaly detection, and an inflation forecasting model combining time-series analysis with deep learning.
 
+I like working at the intersection of solid engineering and applied ML, and I keep building certifications and side projects to stay current across financial services, retail, and tech
+
+
+***
+
+### 🎓 &nbsp;Education
+ 
+**M.S. in Data Science** — University of Birmingham *(Graduated with Distinction)*
+Thesis: Multi-document text summarization using extractive and abstractive approaches (T5, BART, LLAMA 2)
+ 
+**B.E. in Electrical and Electronics Engineering** — Sir M. Visvesvaraya Institute of Technology *(2014 – 2018)*
+First Class with Distinction |&nbsp; 🏅 Gold Medalist for Academic Excellence
 
 ***
 
